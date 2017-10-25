@@ -1,11 +1,11 @@
 names = ['Alice', 'John', 'Dave', 'Lisa', 'Matthew'] # create new list
 print(names)
 
-names[1:3] = ['Amy']    # replace 2 items 'John' and 'Dave' with 'Amy'
+names[1:3] = ['Amy']
 print(names)
 
-names[1:3] = []     # remove 2 items 'Amy' and 'Lisa'
+names[1:3] = []    
 print(names)
 
-names[0:] = [] #Clear List Items
+names[0:] = [] 
 print(names)

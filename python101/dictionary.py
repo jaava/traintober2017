@@ -9,5 +9,7 @@ print(moons_of_saturn)
 
 # Remove key-value pair from moons_of_saturn
 del moons_of_saturn['Titan']
+print(moons_of_saturn)
 
+# print value of the key
 print(moons_of_saturn['Rhea'])
